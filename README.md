@@ -2,11 +2,10 @@ Don't be late Dunkey! is a 3D Plaftormer where you help Donkey to go to the last
 
 It was written in C++ and using Unreal Engine.
 
-For more information and downloadable build
 
+For more information and downloadable build
 https://felipeourives.itch.io/dontbelatedonkey
 
 
 Gameplay
-
 https://www.youtube.com/watch?v=O74W7zdotRw
